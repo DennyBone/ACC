@@ -1,2 +1,2 @@
-ACC
+ACC - Automatic Cruise Controller
 ===
